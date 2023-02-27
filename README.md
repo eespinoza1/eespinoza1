@@ -44,9 +44,6 @@ Always willing to learn more, since curiosity is a quality that characterizes hi
 </p>
 <hr>
 
-### 🎧 &nbsp; Spotify Clone 
-
-![Henry Music](https://henrymusic.tech/)
 <br/>
 <hr>
 
