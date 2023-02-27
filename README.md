@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
-<img width="40%" align="right" alt="Github" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+<img width="40%" align="right" alt="Github" src="[https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)" />
 <br>
 <p aligh="justify">
 Full Stack Developer & Accountant.
@@ -29,7 +29,7 @@ Always willing to learn more, since curiosity is a quality that characterizes hi
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
-<a href="https://twitter.com/EspinozaEricks" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/EspinozaEricks" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="erickJesus" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/erick-espinoza-g%C3%B3mez-58b9b8231/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkerick" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/erick_espinozza/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="erickpng" height="50" width="50" /></a>
 </p>
