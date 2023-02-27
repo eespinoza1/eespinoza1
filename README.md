@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "150px" src="https://media.giphy.com/media/MafXXgOPxeaah6Xre6/giphy.gif" alt="cover" />
+<img width="100%" height = "150px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="cover" />
 </div>
 
 # **Hi there, I'm [Erick Jesús Espinoza](https://www.linkedin.com/in/erick-espinoza-g%C3%B3mez-58b9b8231/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis"> 
