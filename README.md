@@ -11,15 +11,13 @@
 <p aligh="justify">
 Full Stack Developer & Accountant.
 
-I am a public accountant passionate about software development, I have held senior auditor positions in banking, managing databases and generating reports. Always oriented to the good use of information.
+I am a public accountant, i was senior auditor in a bank, managing databases and generating reports. i am a passionate about software development,  Always oriented to the good use of information.
 
 Always learning the best practices to improve solutions as a professional.
 
-He really enjoys exploring new technologies, standards and methods that allow him to develop modern and powerful applications.
+I really enjoy to explorer new technologies, standards and methods that let me to develop modern and powerful applications.
 
-I really like being able to understand the problems to give an optimal solution.
-
-Always willing to learn more, since curiosity is a quality that characterizes him since he always wants to know in a comprehensive, specific and general way about some software that he wants to develop.
+I like to understand the problems to give an optimal solution.
   
 📄 Please see my [resume](https://drive.google.com/drive/folders/1hug_KW2Z7iW38aYUmOS2nfc9_YVLtRZx?usp=sharing) for more details about me. I am open to comments and suggestions!
   
