@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <div>
-<img width="40%" align="right" alt="Github" src="[https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)" />
+<img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" />
 <br>
 <p aligh="justify">
 Full Stack Developer & Accountant.
