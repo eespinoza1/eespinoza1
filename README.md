@@ -88,4 +88,6 @@ Always willing to learn more, since curiosity is a quality that characterizes hi
 <hr>
 #### Proyects: https://henrymusic.tech/ 
 <img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/11xK2fJqk1oJiw/giphy.gif" />
+<p aligh="justify"> 
+In this project we use the following technologies: HTML5, CSS, React, Redux, Postgres, Express, Sequelize and we concatenate two API's in order to have complete and detailed information in our database.</p>
 
