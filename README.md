@@ -42,8 +42,6 @@ Always willing to learn more, since curiosity is a quality that characterizes hi
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanxp1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<hr>
-
 <br/>
 <hr>
 
