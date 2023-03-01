@@ -38,8 +38,8 @@ I like to understand the problems to give an optimal solution.
 <h3 align="left">⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/eespinoza1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanxp1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanxp1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eespinoza1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eespinoza1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br/>
