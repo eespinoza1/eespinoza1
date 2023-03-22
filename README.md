@@ -93,7 +93,10 @@ Henry Music
 In this project we use the following technologies: HTML5, CSS, React, Redux, Postgres, Express, Sequelize and we concatenate two API's in order to have complete and detailed information in our database.</p>
  
  #### Project 2:
- Challenge Front-End
+ Challenge Front-End-vite
+ 
+  #### Project 3:
+  Calculator using create-react-app
  
  
  
