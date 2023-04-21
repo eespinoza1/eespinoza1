@@ -11,7 +11,7 @@
 <p aligh="justify">
 Full Stack Developer & Accountant.
 
-I am a public accountant, i was senior auditor in a bank, managing databases and generating reports. i am a passionate about software development,  Always oriented to the good use of information.
+I am Full Stack Web Developer, i was senior auditor in a bank, managing databases and generating reports. i am a passionate about software development,  Always oriented to the good use of information.
 
 I also have experience as a community manager in the control of advertising campaign statistics with facebook ads and google ads from various companies.
 
