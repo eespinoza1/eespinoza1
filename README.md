@@ -11,13 +11,9 @@
 <p aligh="justify">
 Full Stack Developer & Accountant.
 
-Welcome! I am a passionate Full Stack Web Developer with a strong background in web development. My GitHub profile is the place where I showcase my work, skills, and notable projects.
+Welcome! I am a passionate Full Stack Web Developer with a strong background in web development. My GitHub profile is the place where I showcase my work, skills, and notable projects. I have experience in both front-end and back-end development, creating appealing user interfaces with HTML5, CSS3, and JavaScript, using frameworks like A React and Redux. On the back-end, I have worked with Javascript, Typescript and  NodeJS, developing RESTful APIs and databases.
 
-I have experience in both front-end and back-end development, creating appealing user interfaces with HTML5, CSS3, and JavaScript, using frameworks like Angular, React, and Vue.js. On the back-end, I have worked with Python, Java, and PHP, developing RESTful APIs and databases using frameworks such as Django, Spring, and Laravel.
-
-I stand out for my focus on efficient problem-solving, writing clean code, and following best practices. I stay updated on the latest trends and advancements in web development.
-
-In my GitHub profile, you will find projects that demonstrate my skills and experience in web development. I am passionate about creating high-quality and functional products.
+I stand out for my focus on efficient problem-solving, writing clean code, and following best practices. I stay updated on the latest trends and advancements in web development. In my GitHub profile, you will find projects that demonstrate my skills and experience in web development. I am passionate about creating high-quality and functional products.
 
 Thank you for visiting my GitHub profile. If you have any questions or are interested in collaborating on projects, feel free to contact me. I am excited about future opportunities and growth in web development.
 
