@@ -11,15 +11,17 @@
 <p aligh="justify">
 Full Stack Developer & Accountant.
 
-I am Full Stack Web Developer, i was senior auditor in a bank, managing databases and generating reports. i am a passionate about software development,  Always oriented to the good use of information.
+Welcome! I am a passionate Full Stack Web Developer with a strong background in web development. My GitHub profile is the place where I showcase my work, skills, and notable projects.
 
-I also have experience as a community manager in the control of advertising campaign statistics with facebook ads and google ads from various companies.
+I have experience in both front-end and back-end development, creating appealing user interfaces with HTML5, CSS3, and JavaScript, using frameworks like Angular, React, and Vue.js. On the back-end, I have worked with Python, Java, and PHP, developing RESTful APIs and databases using frameworks such as Django, Spring, and Laravel.
 
-Always learning the best practices to improve solutions as a professional.
+I stand out for my focus on efficient problem-solving, writing clean code, and following best practices. I stay updated on the latest trends and advancements in web development.
 
-I really enjoy to explorer new technologies, standards and methods that let me to develop modern and powerful applications.
+In my GitHub profile, you will find projects that demonstrate my skills and experience in web development. I am passionate about creating high-quality and functional products.
 
-I like to understand the problems to give an optimal solution.
+Thank you for visiting my GitHub profile. If you have any questions or are interested in collaborating on projects, feel free to contact me. I am excited about future opportunities and growth in web development.
+
+Thank you for your time and consideration!
 
 📄 Please see my [resume](https://drive.google.com/drive/folders/1hug_KW2Z7iW38aYUmOS2nfc9_YVLtRZx?usp=sharing) for more details about me. I am open to comments and suggestions!
   
