@@ -9,7 +9,7 @@
 <img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" />
 <br>
 <p aligh="justify">
-Full Stack Developer & Accountant.
+Full Stack Developer.
 
 Welcome! I am a passionate Full Stack Web Developer with a strong background in web development. My GitHub profile is the place where I showcase my work, skills, and notable projects. I have experience in both front-end and back-end development, creating appealing user interfaces with HTML5, CSS3, and JavaScript, using frameworks like A React and Redux. On the back-end, I have worked with Javascript, Typescript and  NodeJS, developing RESTful APIs and databases.
 
