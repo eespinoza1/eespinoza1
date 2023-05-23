@@ -10,14 +10,13 @@
 <br>
 <p aligh="justify">
 Full Stack Developer.
+ I am a public accountant and a former senior auditor at a bank, where I gained extensive experience in managing databases and generating reports. I have a strong passion for software development and always prioritize the responsible use of information.
 
-Welcome! I am a passionate Full Stack Web Developer with a strong background in web development. My GitHub profile is the place where I showcase my work, skills, and notable projects. I have experience in both front-end and back-end development, creating appealing user interfaces with HTML5, CSS3, and JavaScript, using frameworks like A React and Redux. On the back-end, I have worked with Javascript, Typescript and  NodeJS, developing RESTful APIs and databases.
+Additionally, I have worked as a community manager, overseeing the tracking of advertising campaign statistics on platforms such as Facebook Ads and Google Ads for multiple companies.
 
-I stand out for my focus on efficient problem-solving, writing clean code, and following best practices. I stay updated on the latest trends and advancements in web development. In my GitHub profile, you will find projects that demonstrate my skills and experience in web development. I am passionate about creating high-quality and functional products.
+As a professional, I am constantly learning and adopting best practices to enhance my problem-solving skills. I take great pleasure in exploring new technologies, standards, and methods that enable me to develop modern and robust applications."
 
-Thank you for visiting my GitHub profile. If you have any questions or are interested in collaborating on projects, feel free to contact me. I am excited about future opportunities and growth in web development.
-
-Thank you for your time and consideration!
+Overall, your writing is clear and concise, conveying your background in accounting, database management, and software development. The revised version maintains the original content while improving the language flow and grammar.
 
 📄 Please see my [resume](https://drive.google.com/drive/folders/1hug_KW2Z7iW38aYUmOS2nfc9_YVLtRZx?usp=sharing) for more details about me. I am open to comments and suggestions!
   
