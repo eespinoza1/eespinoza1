@@ -24,7 +24,7 @@ Additionally, I have worked as a community manager, overseeing the tracking of a
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
 <a href="https://twitter.com/EspinozaEricks" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="erickJesus" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/erick-espinoza-g%C3%B3mez-58b9b8231/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkerick" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ericks-espinoza-g%C3%B3mez-58b9b8231/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="linkerick" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/erick_espinozza/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="erickpng" height="50" width="50" /></a>
 </p>
 <hr>
