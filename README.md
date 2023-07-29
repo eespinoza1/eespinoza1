@@ -12,9 +12,7 @@
 Full Stack Web Developer.
  I am a public accountant and a former senior auditor at a bank, where I gained extensive experience in managing databases and generating reports. I have a strong passion for software development and always prioritize the responsible use of information.
 As a professional, I am constantly learning and adopting best practices to enhance my problem-solving skills. I take great pleasure in exploring new technologies, standards, and methods that enable me to develop modern and robust applications.
-
-Additionally, I have worked as a community manager, overseeing the tracking of advertising campaign statistics on platforms such as Facebook Ads and Google Ads for multiple companies.
-
+ 
 📄 Please see my [resume](https://drive.google.com/drive/folders/1hug_KW2Z7iW38aYUmOS2nfc9_YVLtRZx?usp=sharing) for more details about me. I am open to comments and suggestions!
   
 </p>
