@@ -9,9 +9,11 @@
 <img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" />
 <br>
 <p aligh="justify">
-Full Stack Web Developer.
- I am a public accountant and a former senior auditor at a bank, where I gained extensive experience in managing databases and generating reports. I have a strong passion for software development and always prioritize the responsible use of information.
-As a professional, I am constantly learning and adopting best practices to enhance my problem-solving skills. I take great pleasure in exploring new technologies, standards, and methods that enable me to develop modern and robust applications.
+I embarked on my professional journey in the banking sector, where I engaged in conducting audits through the utilization of information systems. In this role, I employed SQL queries to identify patterns that could potentially pose risks within the organization.
+
+As a Full Stack Developer, I possess the ability to design, execute, and lead agile and timely procedures, fully prepared to autonomously tackle any challenge, encompassing the planning, development, and oversight of software projects.
+
+My aim is to construct applications that address issues and automate processes to enhance users' daily experiences through software.
  
 📄 Please see my [resume](https://drive.google.com/drive/folders/1hug_KW2Z7iW38aYUmOS2nfc9_YVLtRZx?usp=sharing) for more details about me. I am open to comments and suggestions!
   
